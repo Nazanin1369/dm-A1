@@ -6,11 +6,13 @@ Data files are provided under data directory: edstats_country.csv and gdp_data.c
 
 ### Dependencies
 To be able to run the code you need to have the following dependencies installed:
+* Python 3.5
 * Numpy
 * Pandas
 * Matplotlib
 * Jupyter Notebook
-For your convienience the Conda yml file is included in the project to install all dependencies.
+
+- For your convienience the Conda environment.yaml file is included in the project to install all dependencies.
 
 
 ### How to run the notebook
